@@ -1,0 +1,2 @@
+
+GET http://localhost:4004/odata/v4/incident/Incidents(ID=3ccf474c-3881-44b7-99fb-59a2a4668418,IsActiveEntity=true)/IncidentService.getCurrentStatus()

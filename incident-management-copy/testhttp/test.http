@@ -1,0 +1,2 @@
+
+GET http://localhost:4004/odata/v4/incident/Incidents/incident.getCurrentStatus(Title1=/'Solar panel broken/')
